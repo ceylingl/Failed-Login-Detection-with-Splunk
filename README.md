@@ -124,7 +124,7 @@ This is a **known Splunk bug** with the built-in PDF renderer.
 
 ### ✅ Workarounds  
 - **Option 1:** Click the **Export → Print** in the top-right.
-- **Option 3:** Use browser print → Save as PDF (captures the dashboard as displayed).  
+- **Option 2:** Use browser print → Save as PDF (captures the dashboard as displayed).  
 - **Option 3:** Take screenshots of your panels and include them in your project.  
 - **Option 4:** Install Splunk’s **PDF Export App** from Splunkbase (requires setup).  
 
@@ -166,7 +166,7 @@ The dashboard shows:
 ---
 
 ## 🧑‍💻 Key Skills Learned  
-- Dockerized Splunk deployment  
-- Log ingestion & indexing  
-- Writing SPL queries (`stats`, `timechart`)  
-- Creating dashboards for security monitoring  
+- Deploying Splunk using Docker
+- Ingesting and indexing log data
+- Writing SPL queries (e.g., stats, timechart)
+- Building dashboards for security monitoring 
